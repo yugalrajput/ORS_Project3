@@ -86,10 +86,7 @@
 			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
-	<repository>
-  <id>jaspersoft-third-party</id>
-  <url>http://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/</url>
-</repository>
+	
 	
 	<build>
 		<finalName>project_3</finalName>
@@ -105,4 +102,8 @@
 		</plugins>
 
 	</build>
+	<repository>
+  <id>jaspersoft-third-party</id>
+  <url>http://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/</url>
+</repository>
 </project>
