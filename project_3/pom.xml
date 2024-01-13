@@ -73,11 +73,11 @@
 			<version>6.13.0</version>
 		</dependency>
 
-		<dependency>
+<!-- 		<dependency>
   <groupId>com.lowagie</groupId>
   <artifactId>itext</artifactId>
   <version>4.2.0</version>
-</dependency>
+</dependency> -->
 		
 		<dependency>
 			<groupId>org.apache.maven.plugins</groupId>
