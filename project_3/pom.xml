@@ -105,9 +105,11 @@
 		</plugins>
 
 	</build>
-	<repository>
-  <id>jaspersoft-third-party</id>
-  <url>http://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/</url>
-</repository>
+	<repositories>
+		<repository>
+			<id>jaspersoft-third-party</id>
+			<url>http://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/</url>
+		</repository>
+	</repositories>
 	
 </project>
