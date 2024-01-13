@@ -72,25 +72,14 @@
 			<artifactId>jasperreports</artifactId>
 			<version>6.13.0</version>
 		</dependency>
-		<dependency>
-                        <groupId>net.sf.jasperreports</groupId>
-                        <artifactId>jasperreports</artifactId>
-                        <version>your-preferred-version</version>
-                 </dependency>
 		
-
 		<dependency>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-war-plugin</artifactId>
 			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
-	<repositories>
-                  <repository>
-                       <id>your-custom-repo</id>
-                       <url>https://path-to-your-custom-repo</url>
-                  </repository>
-         </repositories>
+	
 	<build>
 		<finalName>project_3</finalName>
 		<plugins>
