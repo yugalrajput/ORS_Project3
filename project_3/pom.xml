@@ -104,18 +104,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<settings>
-  
-  <mirrors>
-    <mirror>
-      <id>maven-default-http-blocker</id>
-      <mirrorOf>none</mirrorOf>
-      <name>Maven Default Blocker Mirror (to prevent use of http)</name>
-      <url>http://0.0.0.0/</url>
-    </mirror>
-  </mirrors>
-  
-</settings>
+
 
 	</build>
 	
